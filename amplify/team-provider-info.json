@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-monorepo-dev-92708-authRole",
+      "UnauthRoleArn": "arn:aws:iam::961946950702:role/amplify-monorepo-dev-92708-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::961946950702:role/amplify-monorepo-dev-92708-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-monorepo-dev-92708-deployment",
+      "UnauthRoleName": "amplify-monorepo-dev-92708-unauthRole",
+      "StackName": "amplify-monorepo-dev-92708",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:961946950702:stack/amplify-monorepo-dev-92708/80504310-f5a7-11ec-b25b-06d46eaafdd4"
+    }
+  }
+}
