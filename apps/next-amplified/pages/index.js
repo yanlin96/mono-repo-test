@@ -5,6 +5,9 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   console.log('node', process.env.DB_HOST)
   console.log('Frontend',process.env.NEXT_PUBLIC_ANALYTICS_ID)
+  console.log('Fronten_2', process.env.NEXT_PUBLIC_DB_HOST)
+  console.log('Fronten_3', process.env.AMPLIFY_MONOREPO_APP_ROOT)
+
   return (
     <div className={styles.container}>
       <Head>
